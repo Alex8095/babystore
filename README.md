@@ -1,4 +1,4 @@
-alfabrok.ua
+babystore
 ===========
 
-Alfabrok project
+Children's Online Shop
